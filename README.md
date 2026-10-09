@@ -59,3 +59,5 @@ Best model: **_fill in_**
 - Deploy as a Streamlit app
 
 <img width="1428" height="947" alt="Screenshot 2026-10-09 114008" src="https://github.com/user-attachments/assets/a433abd0-5124-4c05-827c-2aad67a6aed3" />
+
+<img width="1430" height="970" alt="Screenshot 2026-10-09 114046" src="https://github.com/user-attachments/assets/e7d04ffe-4c4f-4ad2-91f8-4b55c921fee0" />
